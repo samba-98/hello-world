@@ -1,2 +1,4 @@
-# hello-world
-Demo on Github
+
+# This program prints Hello, world!
+
+print('Hello, world!')
